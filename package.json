@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@radix-ui/react-popover": "1.0.7",
+    "sweetalert2": "^11.10.7"
+  }
+}
